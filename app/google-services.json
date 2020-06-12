@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "331035990059",
+    "firebase_url": "https://take-a-notes-7a28e.firebaseio.com",
+    "project_id": "take-a-notes-7a28e",
+    "storage_bucket": "take-a-notes-7a28e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331035990059:android:4993e1af32e1861a3cb26e",
+        "android_client_info": {
+          "package_name": "com.org.takeanotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331035990059-hvdbpfi7sh4jp4foabin46jhrfqomt85.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.org.takeanotes",
+            "certificate_hash": "77f89be369eecf7169fb77da7124558bbc55e76e"
+          }
+        },
+        {
+          "client_id": "331035990059-ilmv15jg1qb79fh3m4drh4sv6309ircc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHVAPh-gu1OBCZFxgp5Kv2UKZVRNeiq9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331035990059-ilmv15jg1qb79fh3m4drh4sv6309ircc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
